@@ -38,8 +38,6 @@ python cheapth.py
 # Image sample
 
 ![Test Image 1](depth_image.png)
-```
-# explain article
 
 
 https://zenn.dev/manyan3/articles/c39b5342e0cb4b
