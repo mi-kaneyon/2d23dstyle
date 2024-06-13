@@ -41,5 +41,6 @@ python cheapth.py
 ```
 # explain article
 
-https://zenn.dev/manyan3/articles/c39b5342e0cb4b
+[Zenn Pages]([https://pages.github.com/](https://zenn.dev/manyan3/articles/c39b5342e0cb4b)).
+
 
