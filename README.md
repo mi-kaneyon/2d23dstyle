@@ -50,7 +50,6 @@ https://zenn.dev/manyan3/articles/c39b5342e0cb4b
 python cheapth.py
 
 ```
+- you can arrange 2 cams position and make creative layout movie
 
-
-
-5
+![Test Image 2](front-rear_combine.png)
