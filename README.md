@@ -42,3 +42,15 @@ python cheapth.py
 
 https://zenn.dev/manyan3/articles/c39b5342e0cb4b
 
+5. combine different 2 cam realtime movie as 1 movie
+   
+
+
+```
+python cheapth.py
+
+```
+
+
+
+5
